@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.3
+bs4==0.0.2
+fastapi==0.115.11
+fastembed==0.5.1
+qdrant-client==1.13.3
+streamlit==1.43.2
